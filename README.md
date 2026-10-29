@@ -36,3 +36,7 @@ Finish the four components, in this order: `StarRating`, `ReviewList`, `ReviewFo
 - `@for (star of stars; track star)` over `[1, 2, 3, 4, 5]` draws the stars.
 - The `number: '1.1-1'` pipe (`DecimalPipe`, from `@angular/common`) shows a number with one decimal place.
 - A component can only use the components in its own `imports`.
+
+## Hand it in
+
+When it works, push your solution to a public repo of your own on GitHub, then paste that repo's address into **Submit your exercise** on the lesson page at [ask-codey.com](https://www.ask-codey.com). That's what completes the lesson. The lesson page shows the Git commands, step by step.
