@@ -1,0 +1,16 @@
+.star {
+  border: none;
+  background: none;
+  padding: 0 0.1rem;
+  font-size: 1.4rem;
+  color: #c4c4c4;
+}
+
+.star.on {
+  color: #f5a623;
+}
+
+.star:disabled {
+  cursor: default;
+  opacity: 1;
+}
