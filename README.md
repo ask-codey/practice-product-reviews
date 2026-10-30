@@ -1,6 +1,6 @@
-# Practice: Product Reviews
+# Exercise: Product Reviews
 
-Practice code for the lesson **Practice: Product Reviews** in the C# Full-Stack Bootcamp on [ask-codey.com](https://www.ask-codey.com).
+Exercise code for the lesson **Exercise: Product Reviews** in the C# Full-Stack Bootcamp on [ask-codey.com](https://www.ask-codey.com).
 
 Northwind's customers want to review the products. You'll build the reviews page for Chai out of four components that talk to each other with inputs and outputs: a star rating, a list of reviews, a form, and the page that puts them together.
 
